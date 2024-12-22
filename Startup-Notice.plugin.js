@@ -1,7 +1,7 @@
 /**
  * @name Startup Notice
  * @author Pocket#2441
- * @description Display A notice for when discord loads
+ * @description Display A notice for when discord loads; based on the BD Example code
  * @version 0.0.1
  */
 
